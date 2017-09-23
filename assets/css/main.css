@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body {
+  margin: 0 12em 0 12em;
+}
+
+h1 {
+ text-align: center;
+}
+
+h2 {
+  font-size: 1.7em;
+  margin: 2em 0 0 0;
+}
+
+h3 {
+  text-align: center;
+  color: #686767;
+}
+
+p, ol, ul {
+  margin: 1px 0 0 0;
+  font-size: 1.2em;
+}
+
+i {
+  color: #B4B3B3;
+}
+
+.align_center {
+  text-align: center;
+}
+
+.align_left {
+  text-align: left;
+}
+
+.align_right {
+  text-align: right;
+}
